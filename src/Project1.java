@@ -1,3 +1,10 @@
+// Under this test, we will automate the following scenarios:
+// Invoke Google Chrome browser.
+// Open URL: www.google.com
+// Click on the Google Search text box.
+// Type the value "javatpoint tutorials"
+// Click on the Search button.
+
 import net.bytebuddy.asm.Advice;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
