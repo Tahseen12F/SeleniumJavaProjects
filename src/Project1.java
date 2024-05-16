@@ -1,7 +1,7 @@
 // Under this test, we will automate the following scenarios:
 // Invoke Google Chrome browser.
 // Open URL: www.google.com
-// Click on the Google Search text box.
+// Click on the Google Search text box
 // Type the value "javatpoint tutorials"
 // Click on the Search button.
 
